@@ -10,8 +10,8 @@
 **ilaydaikz/ilaydaikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
- I'm currently student <br>
- I am developing applications on android as part time.Click if you want to see <a href="https://play.google.com/store/apps/developer?id=Aysel+Aydin&hl=en&gl=US" target="_blank">My Apps</a><br><br>
+ I'm currently student in Bursa Technical University <br>
+ I am studying electric electrical enginnering <a href="https://play.google.com/store/apps/developer?id=Aysel+Aydin&hl=en&gl=US" target="_blank">My Apps</a><br><br>
  I started to produce content on machine learning, deep learning, python topics. If you are interested in this field, I welcome you to <a href="https://www.instagram.com/pythonlearning.py/" target="_blank">my page</a><br> <br> 
  I love traveling 🛫, painting 👩‍🏭 and violin 🎻<br> <br>
  Learning, teach while learning, and discovering new hobbies are among the passions of my life 💜
