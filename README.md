@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ilayda-ikiz-123a811ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>
 <a href="https://twitter.com/AysellAydinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="30" /></a>
 <a href="https://medium.com/@ilaydaikiz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="30" /></a>
-<a href="https://www.instagram.com/ayselaydin.py/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" /></a>
 </p>
 <!--
 **ilaydaikz/ilaydaikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
