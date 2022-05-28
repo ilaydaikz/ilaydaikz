@@ -12,7 +12,7 @@
 Here are some ideas to get you started:
  I'm currently student in Bursa Technical University <br>
  I am studying electric electrical enginnering <
- I started to produce content on machine learning, deep learning, python topics. If you are interested in this field, I welcome you to <a href="https://www.instagram.com/pythonlearning.py/" target="_blank">my page</a><br> <br> 
+ I am interested in software as a fun. And important to process my academic life. <a href="https://www.instagram.com/pythonlearning.py/" target="_blank">my page</a><br> <br> 
  Learning, teach while learning, and discovering new hobbies are among the passions of my life 💜
 
 - 🔭 I’m currently working on ...
